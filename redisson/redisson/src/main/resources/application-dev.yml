@@ -1,0 +1,12 @@
+#spring:
+#  redis:
+#    host: 129.204.206.138
+#    port: 6379
+#    password: yunkun920801
+#    jedis:
+#      pool:
+#        min-idle: 10
+#        max-idle: 20
+#        max-active: 10
+#        max-wait: 1000
+#          
